@@ -1,0 +1,34 @@
+_repo: The-Return-of-the-Native_17500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: ''
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Heathlands -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'People with visual disabilities -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+title: The Return of the Native
+url: http://www.gutenberg.org/ebooks/17500
