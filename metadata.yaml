@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/23
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17500#The-Return-of-the-Native
 gutenberg_issued: '2006-01-12'
 gutenberg_type: Text
 identifiers:
